@@ -1,0 +1,8 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.RazorAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\obj\Debug\net7.0\Front-End.RazorAssemblyInfo.cs

@@ -1,0 +1,8 @@
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.csproj.AssemblyReference.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.AssemblyInfoInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.AssemblyInfo.cs
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.RazorAssemblyInfo.cache
+C:\Users\Aluno\OneDrive - SESISENAISP - Escolas\Documentos\curso dev\2° Semestre\Front-End\aula_04-Graficos\obj\Debug\net7.0\aula_04-Graficos.RazorAssemblyInfo.cs

@@ -1,0 +1,11 @@
+:root{
+    --cor-principal: #43018e;
+}
+
+.bg{
+    background-color: var(--cor-principal) !important;
+}
+.banner{
+    height: 20rem;
+}
+

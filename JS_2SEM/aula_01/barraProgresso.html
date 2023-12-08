@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Utilizando barra de progresso</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+
+<body class="container" onload="animarBarraProgresso()">
+    <main id="principal">
+        <div class="progress mt-5">
+            <div class="progress-bar" role="progressbar" style="width: 0%;"></div>
+        </div>
+        <div class="alert alert-primary fade show w-100">
+            <button type="button" class="close accordion-button " data-bs-dismiss="alert">
+                <div class="w-100 d-flex justify-content-between">
+                    <label>Seja bem-vindo</label>
+                    <span>
+                        &times;
+                    </span>
+                </div>
+
+            </button>
+        </div>
+    </main>
+
+</body>
+<script src="./barraProgresso.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+    crossorigin="anonymous"></script>
+
+</html>
